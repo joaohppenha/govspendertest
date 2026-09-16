@@ -1,1 +1,9 @@
-.venv/echo venv/echo __pycache__/echo *.pycecho .ipynb_checkpoints/echo *.csvecho *.parquet
+""".venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.csv
+!bronze/*.parquet
+!silver/*.parquet
+!gold/*.parquet
+"""
