@@ -1,1 +1,8 @@
-pandasecho numpyecho pyarrowecho openpyxlecho jupyter
+pandas
+numpy
+pyarrow
+openpyxl
+jupyter
+scikit-learn
+matplotlib
+seaborn
