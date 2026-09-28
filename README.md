@@ -131,6 +131,6 @@ O sistema gera automaticamente um Relatório Executivo em PDF contendo a lista d
 
 ---
 
-## Autor
 
-Desenvolvido por João Penha como projeto de encerramento do AI Talent Academy — WhiteCube.
+
+Desenvolvido  como projeto de encerramento do AI Talent Academy — WhiteCube.
